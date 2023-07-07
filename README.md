@@ -12,6 +12,8 @@ an undergraduate student who studies computer science, Currently I interested at
  
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magistraapta&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/magistraapta)
 <!--
 **magistraapta/magistraapta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
