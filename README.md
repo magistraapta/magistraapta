@@ -10,10 +10,9 @@ an undergraduate student who studies computer science, Currently I interested at
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
  
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magistraapta&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=magistraapta)](https://github.com/magistraapta)
+
+
 <!--
 **magistraapta/magistraapta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
