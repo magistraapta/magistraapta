@@ -2,6 +2,7 @@
 an undergraduate student who studies computer science, Currently I interested at frontend things.
 
 📫 How to reach me: magistraagis@gmail.com
+Don't forget to check my Kaggle profile: [Kaggle Profile](https://www.kaggle.com/muhammadmagistra)
 ### :hammer_and_wrench: Languages and Tools : <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
