@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Agis
+### Hi there 👋 I'm Magistra Apta
 Interested in Machine Learning, Data Science, and iOS Programming
 
 📫 How to reach me: magistraagis@gmail.com
