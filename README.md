@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ### I'm Magistra Apta
-Interested in Machine Learning, Data Science, and iOS Programming
+Undergrad CS student who interested in theoritical and applied Machine Learning model. Love working with data.
 
 📫 How to reach me: magistraagis@gmail.com
 
